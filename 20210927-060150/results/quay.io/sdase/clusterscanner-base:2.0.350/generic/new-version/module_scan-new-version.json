@@ -1,0 +1,10 @@
+{
+  "scan-new-version": {
+    "finding": true,
+    "finishedAt": "2021-09-27 06:06:53.464343580+00:00",
+    "infoText": "Image has a new tag, at least quay.io/sdase/clusterscanner-base:2.0.351",
+    "newVersion": "quay.io/sdase/clusterscanner-base:2.0.351",
+    "startedAt": "2021-09-27 06:06:49.329163747+00:00",
+    "status": "completed"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "scan-baseimage-lifetime": {
+    "age": 75,
+    "buildDate": "2021-07-13T22:29:34.335247052Z",
+    "finding": true,
+    "finishedAt": "2021-09-27 06:07:17.515814554+00:00",
+    "imageType": "BaseImage",
+    "infoText": "BaseImage is 75 days too old",
+    "maxAge": 14,
+    "startedAt": "2021-09-27 06:07:12.421399613+00:00",
+    "status": "completed"
+  }
+}

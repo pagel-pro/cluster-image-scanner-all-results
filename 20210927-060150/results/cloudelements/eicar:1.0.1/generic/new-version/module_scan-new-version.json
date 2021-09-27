@@ -1,0 +1,8 @@
+{
+  "scan-new-version": {
+    "finishedAt": "2021-09-27 06:07:04.369662095+00:00",
+    "infoText": "Skipping scan-new-version due to configuration in json from image collector",
+    "startedAt": "2021-09-27 06:07:04.362195456+00:00",
+    "status": "skipped"
+  }
+}

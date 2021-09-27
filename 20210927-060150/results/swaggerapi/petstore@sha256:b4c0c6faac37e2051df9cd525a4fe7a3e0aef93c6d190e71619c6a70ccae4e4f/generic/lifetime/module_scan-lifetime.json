@@ -1,0 +1,13 @@
+{
+  "scan-lifetime": {
+    "age": 711,
+    "buildDate": "2019-10-16T08:26:52.757799248Z",
+    "finding": true,
+    "finishedAt": "2021-09-27 06:07:21.417513627+00:00",
+    "imageType": "Image",
+    "infoText": "Image is 711 days too old",
+    "maxAge": 14,
+    "startedAt": "2021-09-27 06:07:15.086422254+00:00",
+    "status": "completed"
+  }
+}

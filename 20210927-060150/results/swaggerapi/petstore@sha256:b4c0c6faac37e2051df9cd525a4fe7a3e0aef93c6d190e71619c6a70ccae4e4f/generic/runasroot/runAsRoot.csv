@@ -1,0 +1,5 @@
+###DATE###,Image Potentially Running as Root,0,,Medium,"
+
+Image ###IMAGE###
+Cluster ###CLUSTER###
+Namespace ###NAMESPACE###","","",,TRUE,FALSE

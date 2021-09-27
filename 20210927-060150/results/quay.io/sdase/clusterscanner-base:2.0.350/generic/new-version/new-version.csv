@@ -1,0 +1,5 @@
+###DATE###,Image Has a New Version,0,,Medium,"
+Image has a new tag, at least quay.io/sdase/clusterscanner-base:2.0.351
+Image ###IMAGE###
+Cluster ###CLUSTER###
+Namespace ###NAMESPACE###","","",,TRUE,FALSE
