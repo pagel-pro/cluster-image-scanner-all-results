@@ -1,0 +1,1 @@
+test-cluster_security-test: baseimage lifetime for images is (avg max min) 32 32 32
