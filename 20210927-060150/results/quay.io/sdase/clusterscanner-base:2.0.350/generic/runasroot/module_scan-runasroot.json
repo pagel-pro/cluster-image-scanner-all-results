@@ -1,8 +1,0 @@
-{
-  "scan-runasroot": {
-    "finishedAt": "2021-09-27 06:06:46.544950950+00:00",
-    "infoText": "Skipping scan-runasroot due to configuration in json from image collector",
-    "startedAt": "2021-09-27 06:06:46.533933674+00:00",
-    "status": "skipped"
-  }
-}

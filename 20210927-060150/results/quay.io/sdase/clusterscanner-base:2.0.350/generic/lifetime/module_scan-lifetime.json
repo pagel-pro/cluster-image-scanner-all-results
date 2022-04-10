@@ -1,8 +1,0 @@
-{
-  "scan-lifetime": {
-    "finishedAt": "2021-09-27 06:06:43.830942769+00:00",
-    "infoText": "Skipping scan-lifetime due to configuration in json from image collector",
-    "startedAt": "2021-09-27 06:06:43.813965463+00:00",
-    "status": "skipped"
-  }
-}

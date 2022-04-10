@@ -1,8 +1,0 @@
-{
-  "scan-dependency-check": {
-    "finishedAt": "2021-09-27 06:06:57.556698754+00:00",
-    "infoText": "Skipping scan-dependency-check due to configuration in json from image collector",
-    "startedAt": "2021-09-27 06:06:57.549502013+00:00",
-    "status": "skipped"
-  }
-}

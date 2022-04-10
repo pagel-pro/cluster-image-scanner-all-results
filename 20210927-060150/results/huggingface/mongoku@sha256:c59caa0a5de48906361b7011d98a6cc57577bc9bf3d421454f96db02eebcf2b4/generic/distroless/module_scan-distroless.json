@@ -1,8 +1,0 @@
-{
-  "scan-distroless": {
-    "finishedAt": "2021-09-27 06:07:42.078034320+00:00",
-    "infoText": "Skipping scan-distroless due to configuration in json from image collector",
-    "startedAt": "2021-09-27 06:07:42.071473790+00:00",
-    "status": "skipped"
-  }
-}
