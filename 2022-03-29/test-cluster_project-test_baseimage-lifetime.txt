@@ -1,1 +1,0 @@
-baseimage lifetime for images is (avg max min) 1069 1069 1069
