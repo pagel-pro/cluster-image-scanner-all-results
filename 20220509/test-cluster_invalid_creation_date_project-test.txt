@@ -1,2 +1,0 @@
-quay.io/sdase/hello-dropwizard:latest 19121
-quay.io/sdase/hello-dropwizard:latest 1111

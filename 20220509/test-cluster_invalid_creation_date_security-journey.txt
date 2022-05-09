@@ -1,2 +1,0 @@
-quay.io/sdase/cluster-image-scanner-base:2.0.424 248
-quay.io/sdase/cluster-image-scanner-base:2.0.424 248

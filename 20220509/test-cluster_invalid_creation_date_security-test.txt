@@ -1,1 +1,0 @@
-quay.io/sdase/clusterscanner-base:2.0.350 255

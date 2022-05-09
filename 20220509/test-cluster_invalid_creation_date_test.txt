@@ -1,1 +1,0 @@
-quay.io/prometheuscommunity/postgres-exporter:v0.10.0 370

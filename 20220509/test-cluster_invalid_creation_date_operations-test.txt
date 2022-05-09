@@ -1,2 +1,0 @@
-wurstbrot/wackopicko:latest 901
-wurstbrot/wackopicko:latest 2301
