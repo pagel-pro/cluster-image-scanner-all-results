@@ -1,0 +1,2 @@
+gcr.io/distroless/java:11-nonroot 19123
+gcr.io/distroless/java:11-nonroot 19123
