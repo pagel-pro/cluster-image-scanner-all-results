@@ -15,3 +15,4 @@ gcr.io/distroless/java:11-nonroot 19125
 gcr.io/distroless/java:11-nonroot 19125
 gcr.io/distroless/java:11-nonroot 19125
 gcr.io/distroless/java:11-nonroot 19125
+gcr.io/distroless/java:11-nonroot 19125
