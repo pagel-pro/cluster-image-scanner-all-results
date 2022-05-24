@@ -1,1 +1,2 @@
 lifetime for images is (avg max min) 318 318 318
+lifetime for images is (avg max min) 319 319 319
