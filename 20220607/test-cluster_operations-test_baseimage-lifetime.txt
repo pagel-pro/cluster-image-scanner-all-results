@@ -6,3 +6,4 @@ baseimage lifetime for images is (avg max min) 511 511 511
 baseimage lifetime for images is (avg max min) 511 511 511
 baseimage lifetime for images is (avg max min) 511 511 511
 baseimage lifetime for images is (avg max min) 511 511 511
+baseimage lifetime for images is (avg max min) 511 511 511
