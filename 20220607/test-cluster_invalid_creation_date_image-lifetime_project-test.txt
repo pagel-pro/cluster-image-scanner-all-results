@@ -5,3 +5,4 @@ quay.io/sdase/hello-dropwizard:latest 19150
 quay.io/sdase/hello-dropwizard:latest 19150
 quay.io/sdase/hello-dropwizard:latest 19150
 quay.io/sdase/hello-dropwizard:latest 19150
+quay.io/sdase/hello-dropwizard:latest 19150
