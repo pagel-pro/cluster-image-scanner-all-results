@@ -1,13 +1,13 @@
 team-severity,average in days,maximum,amount of findings
 "team/security-Medium","3","4 days, 6 hours, 14 minutes, 51.431 seconds",2
-"team/operations-test-Medium","3","6 days, 20 hours, 28.847 seconds",9
-"-Critical","0","6 hours, 53 minutes, 56.583 seconds",6
-"-High","0","6 days, 19 hours, 57 minutes, 23.770 seconds",17
-"team/security-test-Medium","5","6 days, 20 hours, 15.123 seconds",37
-"team/security-test-High","6","6 days, 20 hours, 59.160 seconds",38
+"team/operations-test-Medium","3","6 days, 20 hours, 5 minutes, 58.036 seconds",9
+"-Critical","0","6 hours, 59 minutes, 25.772 seconds",6
+"-High","0","6 days, 20 hours, 2 minutes, 52.959 seconds",17
+"team/security-test-Medium","5","6 days, 20 hours, 5 minutes, 44.312 seconds",37
+"team/security-test-High","6","6 days, 20 hours, 6 minutes, 28.349 seconds",38
 "team/test-Medium","1","3 days, 12 hours, 50 minutes, 28.576 seconds",4
-"team/project-test-Medium","5","6 days, 19 hours, 52 minutes, 54.543 seconds",16
-"team/test-1970-Medium","6","6 days, 19 hours, 57 minutes, 51.203 seconds",2
-"-Medium","1","6 days, 19 hours, 57 minutes, 23.526 seconds",15
-"team/operations-Medium","4","6 days, 19 hours, 55 minutes, 59.102 seconds",6
-"team/project-test-High","3","6 days, 19 hours, 52 minutes, 53.087 seconds",6
+"team/project-test-Medium","5","6 days, 19 hours, 58 minutes, 23.732 seconds",16
+"team/test-1970-Medium","6","6 days, 20 hours, 3 minutes, 20.392 seconds",2
+"-Medium","1","6 days, 20 hours, 2 minutes, 52.715 seconds",15
+"team/operations-Medium","4","6 days, 20 hours, 1 minutes, 28.291 seconds",6
+"team/project-test-High","3","6 days, 19 hours, 58 minutes, 22.276 seconds",6
