@@ -1,7 +1,11 @@
-environment,team,severity,average in days (including all open findings),average in days for findings opened within 2022-03-13T14:59-2022-06-11T14:59,maximum (all opened findings),maximum in days for findings opened within 2022-03-13T14:59-2022-06-11T14:59,amount of findings (all open),amount of findings in days for findings opened within 2022-03-13T14:59-2022-06-11T14:59
+environment,team,severity,average in days (including all open findings),average in days for findings opened within 2022-03-13T15:26-2022-06-11T15:26,maximum (all opened findings),maximum in days for findings opened within 2022-03-13T15:26-2022-06-11T15:26,amount of findings (all open),amount of findings in days for findings opened within 2022-03-13T15:26-2022-06-11T15:26
 "cluster/lord-of-the-rings","team/fellowship-of-the-ring","High",0,0,0,0,23,23
 "cluster/lord-of-the-rings","team/fellowship-of-the-ring","Medium",0,0,0,0,22,22
 "cluster/lord-of-the-rings","team/fellowship-of-the-ring","Low",0,0,0,0,1,1
+"cluster/production","team/fellowship-of-the-ring","Critical",0,0,0,0,7,7
+"cluster/production","team/fellowship-of-the-ring","High",0,0,0,0,20,20
+"cluster/production","team/fellowship-of-the-ring","Medium",0,0,0,0,40,40
+"cluster/production","team/fellowship-of-the-ring","Low",0,0,0,0,1,1
 "cluster/test","team/security","Medium",4,4,4,4,2,2
 "cluster/test-cluster","team/operations-test","Medium",4,4,8,8,9,9
 "cluster/test-cluster","team/project-test","High",5,5,8,8,6,6
