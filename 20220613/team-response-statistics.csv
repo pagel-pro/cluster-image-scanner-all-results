@@ -1,5 +1,5 @@
-environment,team,severity,average in days (including all open findings),average in days for findings opened within 2022-03-15T06:15-2022-06-13T06:15,maximum (all opened findings),maximum in days for findings opened within 2022-03-15T06:15-2022-06-13T06:15,amount of findings (all open),amount of findings in days for findings opened within 2022-03-15T06:15-2022-06-13T06:15
-"cluster/lord-of-the-rings","team/fellowship-of-the-ring","Critical",0,0,0,0,57,57
+environment,team,severity,average in days (including all open findings),average in days for findings opened within 2022-03-15T06:26-2022-06-13T06:26,maximum (all opened findings),maximum in days for findings opened within 2022-03-15T06:26-2022-06-13T06:26,amount of findings (all open),amount of findings in days for findings opened within 2022-03-15T06:26-2022-06-13T06:26
+"cluster/lord-of-the-rings","team/fellowship-of-the-ring","Critical",0,0,0,0,56,56
 "cluster/lord-of-the-rings","team/fellowship-of-the-ring","High",0,0,0,0,135,135
 "cluster/lord-of-the-rings","team/fellowship-of-the-ring","Medium",0,0,0,0,124,124
 "cluster/lord-of-the-rings","team/fellowship-of-the-ring","Low",0,0,0,0,26,26
