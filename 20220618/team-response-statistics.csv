@@ -1,0 +1,19 @@
+environment,team,severity,average in days (including all open findings),average in days for findings opened within 2022-03-20T13:13-2022-06-18T13:13,maximum (all opened findings),maximum in days for findings opened within 2022-03-20T13:13-2022-06-18T13:13,amount of findings (all open),amount of findings in days for findings opened within 2022-03-20T13:13-2022-06-18T13:13
+"cluster/lord-of-the-rings","team/fellowship-of-the-ring","Critical",5,5,5,5,57,57
+"cluster/lord-of-the-rings","team/fellowship-of-the-ring","High",5,5,5,5,139,139
+"cluster/lord-of-the-rings","team/fellowship-of-the-ring","Medium",4,4,5,5,139,139
+"cluster/lord-of-the-rings","team/fellowship-of-the-ring","Low",5,5,5,5,26,26
+"cluster/minikube","team/operations","Medium",0,0,0,0,4,4
+"cluster/production","team/fellowship-of-the-ring-t3","Critical",1,1,2,2,14,14
+"cluster/production","team/fellowship-of-the-ring-t3","High",1,1,3,3,39,39
+"cluster/production","team/fellowship-of-the-ring-t3","Medium",1,1,2,2,80,80
+"cluster/production","team/fellowship-of-the-ring-t3","Low",1,1,2,2,2,2
+"cluster/test","team/security","Medium",5,5,10,10,3,3
+"cluster/test-cluster","team/operations-test","Medium",6,6,15,15,12,12
+"cluster/test-cluster","team/project-test","High",12,12,15,15,6,6
+"cluster/test-cluster","team/project-test","Medium",13,13,15,15,17,17
+"cluster/test-cluster","team/security-test","High",14,14,15,15,38,38
+"cluster/test-cluster","team/security-test","Medium",12,12,15,15,41,41
+"cluster/test-cluster","team/security-test","Low",15,15,15,15,1,1
+"cluster/test-cluster","team/test","Medium",2,2,6,6,8,8
+"cluster/test-cluster","team/test-1970","Medium",15,15,15,15,2,2
