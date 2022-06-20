@@ -1,1 +1,2 @@
 baseimage lifetime for images is (avg max min) 200 200 200
+baseimage lifetime for images is (avg max min) 200 200 200
