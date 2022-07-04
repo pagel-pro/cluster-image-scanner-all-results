@@ -18,3 +18,23 @@ environment,team,severity,average in days (including all open findings),average 
 "cluster/test-cluster","team/security-test","Low",14,14,31,31,8,8
 "cluster/test-cluster","team/test","Medium",3,3,13,13,10,10
 "cluster/test-cluster","team/test-1970","Medium",31,31,31,31,2,2
+environment,team,severity,average in days (including all open findings),average in days for findings opened within 2022-04-05T06:38-2022-07-04T06:38,maximum (all opened findings),maximum in days for findings opened within 2022-04-05T06:38-2022-07-04T06:38,amount of findings (all open),amount of findings in days for findings opened within 2022-04-05T06:38-2022-07-04T06:38
+"cluster/lord-of-the-rings","team/fellowship-of-the-ring","Critical",9,9,13,13,57,57
+"cluster/lord-of-the-rings","team/fellowship-of-the-ring","High",13,13,13,13,136,136
+"cluster/lord-of-the-rings","team/fellowship-of-the-ring","Medium",13,13,13,13,128,128
+"cluster/lord-of-the-rings","team/fellowship-of-the-ring","Low",13,13,13,13,26,26
+"cluster/minikube","team/operations","Medium",7,7,13,13,8,8
+"cluster/production","team/fellowship-of-the-ring-t3","Critical",16,16,17,17,14,14
+"cluster/production","team/fellowship-of-the-ring-t3","High",16,16,18,18,39,39
+"cluster/production","team/fellowship-of-the-ring-t3","Medium",16,16,17,17,80,80
+"cluster/production","team/fellowship-of-the-ring-t3","Low",17,17,17,17,2,2
+"cluster/test","team/security","Medium",6,6,13,13,5,5
+"cluster/test-cluster","team/operations-test","Medium",9,9,31,31,18,18
+"cluster/test-cluster","team/project-test","High",28,28,31,31,6,6
+"cluster/test-cluster","team/project-test","Medium",25,25,31,31,18,18
+"cluster/test-cluster","team/security-test","Critical",9,9,11,11,19,19
+"cluster/test-cluster","team/security-test","High",17,17,31,31,109,109
+"cluster/test-cluster","team/security-test","Medium",17,17,31,31,85,85
+"cluster/test-cluster","team/security-test","Low",14,14,31,31,8,8
+"cluster/test-cluster","team/test","Medium",2,2,13,13,11,11
+"cluster/test-cluster","team/test-1970","Medium",31,31,31,31,2,2
